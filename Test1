@@ -1,0 +1,8 @@
+# IdesofMarch/Test1
+cd desktop
+mkdir github_test1
+cd github_test1
+git init
+touch IdesofMarch1
+git add .
+git -m commit "Test1 first commit"
